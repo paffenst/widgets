@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable import/no-anonymous-default-export */
 import React , {useState} from 'react';
 import Accordion from './components/Accordion';
 import Search from './components/Search';
